@@ -130,3 +130,6 @@ dmypy.json
 
 # Mac hidden folder
 .DS_Store
+
+# Keep data local, man
+*/data
